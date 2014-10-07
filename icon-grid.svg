@@ -1,0 +1,17 @@
+<svg width="64" height="64" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+
+<g id="icon-grid">
+  <path stroke="grey" stroke-width=".5" d="M 32,0 l 0,64 M 0,32 l 64,0 M 16,0 l 0,64 M 48,0 l 0,64 M 0,16 l 64,0 M 0,48 l 64,0"></path>
+  <rect x="0" y="0" width="64" height="64" stroke-width="1" fill="none" stroke="blue"></rect>
+</g>
+
+</svg>
+
+
+  <!--image x="3" y="1.96921" width="418.00002" height="475.87694" id="svg_2" xlink:href="http://www.worldpath.net/~minstrel/signs1.gif"/-->
+
+  <!-- 
+<g transform="translate(11.25, 9.5)">
+<rect x="0" y="0" width="64" height="64" fill="#efffff"></rect>
+</g>
+ -->
