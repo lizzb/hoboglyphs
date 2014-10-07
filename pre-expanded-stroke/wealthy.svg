@@ -1,0 +1,33 @@
+<svg width="64" height="64" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<g id="wealthy">
+
+<!--g transform="translate(343, 72)">
+<path stroke="cyan" stroke-width="2" fill="none"
+    d="
+    M 0,0
+    l 64,0
+    " 
+    /-->
+
+<path stroke="#333" stroke-width="2" fill="none"
+    d="
+    M 37,5
+    l 21,38.5
+    l -42, 0
+    z
+    M 12,6.8
+    l 0,13
+    M 12,6.8
+    l 10,0
+    l 0,13
+    M 6.7,19.8
+    l 24, 0
+
+    " 
+    />
+
+
+</g>
+
+
+</svg>

@@ -1,0 +1,15 @@
+<svg width="640" height="480" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  
+  <image x="3" y="1.96921" width="418.00002" height="475.87694" id="svg_2" xlink:href="http://www.worldpath.net/~minstrel/signs1.gif"/>
+
+<!--svg width="64" height="64" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"-->
+
+
+
+<g id="food-for-work">
+  <line y2="14.846292" x2="359.620971" y1="26.556906" x1="359.620971"  stroke-width="2" stroke="magenta"/>
+  <line y2="12.323389" x2="374.542685" y1="52.169538" x1="374.542685"  stroke-width="2"  stroke="magenta"/>
+  <line y2="14.626537" x2="359.678775" y1="26.337152" x1="359.678775"  stroke-width="2"  stroke="magenta" transform="rotate(90 359.67877197265625,20.481845855712923) "/>
+  </g>
+
+</svg>

@@ -1,0 +1,14 @@
+<svg width="64" height="64" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <g id="this-is-the-place">
+<path stroke="lime" stroke-width="2" fill="none"
+    d="
+    M 0,64
+    l 0,-24
+    l 42,0
+    l 0, 24
+    M 21,40
+    l 0, -11
+    " 
+    />
+</g>
+</svg>

@@ -1,0 +1,64 @@
+<?xml version="1.0"?>
+<svg width="640" height="480" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <!-- Created with SVG-edit - http://svg-edit.googlecode.com/ -->
+ <g display="inline">
+  <title>image</title>
+  <image xlink:href="http://www.worldpath.net/~minstrel/signs1.gif" id="svg_2" height="475.87694" width="418.00002" y="1.96921" x="3"/>
+ </g>
+ <g display="none">
+
+ 
+
+
+  <g id="food-for-work-partial">
+   <line stroke="#5f00bf" id="svg_11" fill="none" stroke-width="2" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" x1="359.62097" y1="26.55691" x2="359.62097" y2="14.84629"/>
+   <line stroke="#5f00bf" id="svg_13" fill="none" stroke-width="2" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" x1="374.54269" y1="52.16954" x2="374.54269" y2="12.32339"/>
+   <line transform="rotate(90 359.67877197265625,20.481845855712923) " id="svg_15" stroke="#5f00bf" fill="none" stroke-width="2" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" x1="359.67877" y1="26.33715" x2="359.67877" y2="14.62654"/>
+  </g>
+
+
+  <g id="good-for-handout">
+   <circle stroke="#5f00bf" id="svg_31" r="16.121897" cy="95.334839" cx="238.627225" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="2" fill="none"/>
+   <line stroke="#5f00bf" id="svg_34" transform="rotate(52.70260238647461 237.15361022949213,95.8170623779297) " fill="none" stroke-width="1.25" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" x1="237.153618" y1="105.763097" x2="237.153618" y2="85.871032"/>
+   <line stroke="#5f00bf" id="svg_33" transform="rotate(141.25396728515625 237.61399841308594,95.38282012939453) " fill="none" stroke-width="1.25" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" x1="237.613995" y1="106.010372" x2="237.613995" y2="84.755262"/>
+  </g>
+  <line stroke="#5f00bf" id="svg_36" transform="rotate(19.047922134399414 180.43278503417957,100.92543029785156) " fill="none" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" x1="180.432793" y1="105.604354" x2="180.432793" y2="96.246505"/>
+ </g>
+
+
+ <g display="inline">
+  <title>moreicons-10-7</title>
+  <ellipse fill="none" stroke-width="1.25" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" cx="175.29954" cy="101.67978" rx="24.9213" ry="9.6127" id="bread" transform="rotate(8.290840148925781 175.29954528808597,101.67977905273426) " stroke="#5f00bf"/>
+  <ellipse fill="none" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" cx="175.0526" cy="15.84812" rx="3.47058" ry="3.20361" id="svg_19" stroke="#5f00bf"/>
+  <ellipse stroke="#5f00bf" id="svg_1" fill="none" stroke-width="1.25" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" cx="42.061664" cy="424.10666" rx="15.862591" ry="9.55162" transform="rotate(-20.696027755737305 42.06166458129838,424.1066589355468) "/>
+  <ellipse stroke="#5f00bf" transform="rotate(13.628060340881348 176.52503967285156,295.5246887207031) " id="telephone" fill="none" stroke-width="1.25" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" cx="176.525027" cy="295.524702" rx="14.423429" ry="5.099545"/>
+
+
+  <g id="kindwoman-1">
+   <ellipse fill="none" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" cx="93.27147" cy="21.36546" rx="3.91553" ry="3.20361" id="svg_16" stroke="#5f00bf"/>
+   <ellipse fill="none" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" cx="93.0045" cy="30.70933" rx="6.14026" ry="5.60632" id="svg_17" stroke="#5f00bf"/>
+  </g>
+
+
+  <g id="good-chance-for-money">
+   <ellipse stroke="#5f00bf" fill-opacity="0" ry="6.324999" rx="6.550002" id="svg_3" cy="215.674995" cx="306.150007" stroke-width="1.25" fill="#000000"/>
+   <ellipse id="svg_21" stroke="#5f00bf" fill-opacity="0" ry="6.324999" rx="6.550002" cy="215.22091" cx="330.592314" stroke-width="1.25" fill="#000000"/>
+   <ellipse id="svg_25" stroke="#5f00bf" fill-opacity="0" ry="6.324999" rx="6.550002" cy="231.840429" cx="294.878027" stroke-width="1.25" fill="#000000"/>
+   <ellipse id="svg_30" stroke="#5f00bf" fill-opacity="0" ry="6.324999" rx="6.550002" cy="231.486822" cx="318.569683" stroke-width="1.25" fill="#000000"/>
+   <ellipse id="svg_32" stroke="#5f00bf" fill-opacity="0" ry="6.324999" rx="6.550002" cy="216.382209" cx="282.811958" stroke-width="1.25" fill="#000000"/>
+  </g>
+  <polygon id="svg_38" fill="#FF0000"/>
+  <polygon id="svg_40" fill="#FF0000"/>
+  <path fill="#000000" stroke-width="1.75" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" d="m358.576416,115.450294l21.001373,-37.981812l20.998627,37.981812l-42,0z" id="svg_41" fill-opacity="0" stroke="#007fff"/>
+  <path fill="#000000" stroke-width="1.25" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" d="m25.253361,385.980621l17.13345,-44.174774l17.131016,44.174774l-34.264465,0z" fill-opacity="0" id="svg_47" stroke="#007fff"/>
+  <g id="tell-pitiful-story">
+   <path fill="#000000" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" d="m255.318527,172.695328l4.304916,-19.767609l4.304321,19.767609l-8.609238,0z" fill-opacity="0" id="svg_43" stroke="#007fff"/>
+   <path fill="#000000" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" d="m232.852859,172.279297l4.304901,-19.767609l4.304321,19.767609l-8.609222,0z" fill-opacity="0" stroke="#007fff" id="svg_44"/>
+   <path fill="#000000" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" d="m244.22438,172.417984l4.304901,-19.767609l4.304321,19.767609l-8.609222,0z" fill-opacity="0" stroke="#007fff" id="svg_45"/>
+   <path fill="#000000" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" d="m216.766327,172.695343l6.870621,-29.613678l6.869644,29.613678l-13.740265,0z" fill-opacity="0" id="svg_46" stroke="#007fff"/>
+  </g>
+
+  
+  <path fill="none" stroke="#007fff" stroke-width="1.25" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" fill-opacity="0" id="svg_49" d="m158.91832,52.935787c0,-1.053761 -0.000092,-1.941479 0,-2.824017c0.000092,-0.888088 0.256622,-1.70779 0.562012,-2.542782c0.297882,-0.814487 0.335907,-1.694813 0.547394,-2.537792c0.207993,-0.829041 0.518921,-1.627922 0.670273,-2.496185c0.150238,-0.861942 0.41745,-1.657917 0.775482,-2.412979c0.368698,-0.777569 0.613052,-1.574501 0.916748,-2.386726c0.300934,-0.80481 0.4767,-1.629257 0.754837,-2.47506c0.272186,-0.827724 0.718643,-1.484947 1.042786,-2.266399c0.320908,-0.773678 0.862473,-1.43762 1.565201,-1.830351c0.726517,-0.406025 1.556213,-0.555916 2.263947,-0.974253c0.707397,-0.41814 1.369171,-1.007317 2.203491,-1.244579c0.791779,-0.225164 1.690964,-0.277657 2.565521,-0.416031c0.882385,-0.139614 1.752533,-0.207775 2.5867,-0.277355c0.891006,-0.07432 1.781631,0 2.655289,0c0.901413,0 1.69516,0.270205 2.45459,0.624046c0.793991,0.369944 1.636261,0.643219 2.3479,1.051727c0.713806,0.40975 1.557281,0.708717 2.142273,1.267138c0.613083,0.58523 0.9608,1.393671 1.424301,2.059446c0.469574,0.674507 0.681183,1.40691 0.880692,2.139511c0.225906,0.82951 0.935455,1.405331 1.300613,2.163338c0.365875,0.759495 0.577591,1.571053 0.840958,2.384644c0.242416,0.748894 0.806137,1.44281 1.048004,2.247192c0.253372,0.842644 -0.003464,1.776272 0.208649,2.607128c0.207169,0.811466 0.397354,1.640369 0.716232,2.387463c0.32637,0.764626 0.645447,1.549969 0.669907,2.452366c0.023911,0.882214 0,1.775063 0,2.662598c0,0.87429 -0.332825,1.469975 -1.224976,1.469975c-0.8974,0 -1.783569,0.016647 -2.634872,0.115566c-0.849884,0.098755 -1.701874,0.151234 -2.574768,0.220772c-0.868622,0.069199 -1.763229,0.079693 -2.648727,0.079693c-0.873657,0 -1.778503,0.070946 -2.672028,0c-0.844452,-0.067051 -1.725327,-0.286839 -2.556091,-0.568573c-0.826553,-0.280308 -1.68367,-0.150227 -2.426849,0.25024c-0.758926,0.408955 -1.611801,0.485897 -2.482315,0.417625c-0.89035,-0.069828 -1.683151,-0.405739 -2.551666,-0.515324c-0.853043,-0.107632 -1.74733,0 -2.668533,0c-0.880112,0 -1.774582,0.069126 -2.634872,0.13868c-0.886002,0.071632 -1.792236,0 -2.649353,0c-0.894836,0 -1.7883,-0.000626 -2.642166,-0.13868l-0.887527,0"/>
+ </g>
+</svg>

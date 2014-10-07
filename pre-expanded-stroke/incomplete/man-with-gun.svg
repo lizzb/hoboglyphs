@@ -1,0 +1,30 @@
+<svg width="640" height="480" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  
+  <image x="3" y="1.96921" width="418.00002" height="475.87694" id="svg_2" xlink:href="http://www.worldpath.net/~minstrel/signs1.gif"/>
+
+<!--svg width="64" height="64" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"-->
+
+
+
+<g id="man-with-gun" transform="translate(11, 340)">
+<path stroke="cyan" stroke-width="2" fill="none"
+    d="
+    M 0,0
+    l 64,0
+    " 
+    />
+
+<path stroke="lime" stroke-width="2" fill="none"
+    d="
+    M 32,1
+    l 17,45
+    l -35, 0
+    z
+    " 
+    />
+
+
+</g>
+
+</svg>
+

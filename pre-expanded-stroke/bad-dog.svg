@@ -1,0 +1,21 @@
+<svg width="64" height="64" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<g id="bad-dog">
+<path stroke="#333" stroke-width="1.5" fill="none"
+    d="
+    M -7.5, 69.5
+    l 0, -19.5
+    l 51.25, 0
+    l 0, 19.5
+    z
+    M 0,64
+    l 0,-8
+    l 36,0
+    l 0, 8
+    M 13,56
+    l 0, 8
+    M 26,56
+    l 0, 8
+    " 
+    />
+</g>
+</svg>
