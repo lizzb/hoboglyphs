@@ -1,14 +1,33 @@
+
+
+
 <svg width="640" height="480" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
- <!-- Created with SVG-edit - http://svg-edit.googlecode.com/ -->
   
-  <image x="3" y="1.96921" width="418.00002" height="475.87694" id="svg_2" xlink:href="http://www.worldpath.net/~minstrel/signs1.gif"/>
+  <image x="3" y="1.96921" width="418.00002" height="475.87694" id="bg-image" xlink:href="http://www.worldpath.net/~minstrel/signs1.gif"/>
 
 <!--svg width="64" height="64" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"-->
 
+<g id="icon-grid" transform="translate(76.5, 139)">
+  <path stroke="grey" stroke-width=".5" d="M 32,0 l 0,64 M 0,32 l 64,0 M 16,0 l 0,64 M 48,0 l 0,64 M 0,16 l 64,0 M 0,48 l 64,0"></path>
+  <rect x="0" y="0" width="64" height="64" stroke-width="1" fill="none" stroke="blue"></rect>
+</g>
 
-  <g id="talk-religion-get-food">
-   <line y2="73.606958" x2="107.937249" y1="100.212071" x1="107.937249"  stroke-width="2"  id="svg_9" transform="rotate(90 107.937255859375,86.90951538085939) " stroke="blue"/>
-   <line y2="76.15783" x2="108.564863" y1="118.071013" x1="108.564863"  stroke-width="2"  stroke="blue" id="svg_12"/>
+<g id="icon-grid" transform="translate(76.5, 71.1)">
+  <path stroke="grey" stroke-width=".5" d="M 32,0 l 0,64 M 0,32 l 64,0 M 16,0 l 0,64 M 48,0 l 0,64 M 0,16 l 64,0 M 0,48 l 64,0"></path>
+  <rect x="0" y="0" width="64" height="64" stroke-width="1" fill="none" stroke="blue"></rect>
+ <g id="talk-religion-get-food">
+   <line x2="48" y2="16" x1="16" y1="16"  stroke-width="2" stroke="blue"/>
+   <line y2="6.15783" x2="32" y1="48.071013" x1="32"  stroke-width="2"  stroke="dodgerblue"/>
   </g>
 
-</svg>
+
+
+  </g>
+
+  </svg>  
+
+  <!--g id="talk-religion-get-food">
+   <line y2="73.606958" x2="107.937249" y1="100.212071" x1="107.937249"  stroke-width="2"  id="svg_9" transform="rotate(90 107.937255859375,86.90951538085939) " stroke="blue"/>
+   <line y2="76.15783" x2="108.564863" y1="118.071013" x1="108.564863"  stroke-width="2"  stroke="blue" id="svg_12"/>
+  </g-->
+

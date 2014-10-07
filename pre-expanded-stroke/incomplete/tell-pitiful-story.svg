@@ -7,12 +7,28 @@
 
 <!--svg width="64" height="64" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"-->
 
+<g id="icon-grid" transform="translate(207.75, 139)">
+  <path stroke="grey" stroke-width=".5" d="M 32,0 l 0,64 M 0,32 l 64,0 M 16,0 l 0,64 M 48,0 l 0,64 M 0,16 l 64,0 M 0,48 l 64,0"></path>
+  <rect x="0" y="0" width="64" height="64" stroke-width="1" fill="none" stroke="blue"></rect>
+
+
 
   <g id="tell-pitiful-story">
+   <path fill="#000000" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" d="m8.5,34 l6.870621,-29.613678l6.869644,29.613678l-13.740265,0z" fill-opacity="0" id="svg_46" stroke="#007fff"/>
+   <path fill="#000000" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" d="m25,34 l4.304901,-19.767609l4.304321,19.767609l-8.609222,0z" fill-opacity="0" stroke="red" id="svg_44"/>
+   <path fill="#000000" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" d="m36,34 l4.304901,-19.767609l4.304321,19.767609l-8.609222,0z" fill-opacity="0" stroke="green" id="svg_45"/>
+<path fill="#000000" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" d="m47,34 l4.304916,-19.767609l4.304321,19.767609l-8.609238,0z" fill-opacity="0" id="svg_43" stroke="#007fff"/>
+   
+  </g>
+
+  </g>
+
+  </svg>  
+
+  <!--g id="tell-pitiful-story">
    <path fill="#000000" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" d="m255.318527,172.695328l4.304916,-19.767609l4.304321,19.767609l-8.609238,0z" fill-opacity="0" id="svg_43" stroke="#007fff"/>
    <path fill="#000000" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" d="m232.852859,172.279297l4.304901,-19.767609l4.304321,19.767609l-8.609222,0z" fill-opacity="0" stroke="#007fff" id="svg_44"/>
    <path fill="#000000" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" d="m244.22438,172.417984l4.304901,-19.767609l4.304321,19.767609l-8.609222,0z" fill-opacity="0" stroke="#007fff" id="svg_45"/>
    <path fill="#000000" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" d="m216.766327,172.695343l6.870621,-29.613678l6.869644,29.613678l-13.740265,0z" fill-opacity="0" id="svg_46" stroke="#007fff"/>
-  </g>
+  </g-->
 
-  </svg>  

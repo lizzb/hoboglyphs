@@ -1,19 +1,36 @@
+
+
+
 <svg width="640" height="480" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
- <!-- Created with SVG-edit - http://svg-edit.googlecode.com/ -->
   
-  <image x="3" y="1.96921" width="418.00002" height="475.87694" id="svg_2" xlink:href="http://www.worldpath.net/~minstrel/signs1.gif"/>
+  <image x="3" y="1.96921" width="418.00002" height="475.87694" id="bg-image" xlink:href="http://www.worldpath.net/~minstrel/signs1.gif"/>
 
 <!--svg width="64" height="64" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"-->
 
+<g id="icon-grid" transform="translate(76.75, 139)">
+  <path stroke="grey" stroke-width=".5" d="M 32,0 l 0,64 M 0,32 l 64,0 M 16,0 l 0,64 M 48,0 l 0,64 M 0,16 l 64,0 M 0,48 l 64,0"></path>
+  <rect x="0" y="0" width="64" height="64" stroke-width="1" fill="none" stroke="blue"></rect>
+
+ <g id="allright-ok">
+   
+
+    <line y2="45" x2="32" y1="4" x1="32"  stroke-width="2"  id="svg_8" stroke="#5f00bf"/>
+    <line x2="53" y2="24.25" x1="9" y1="24.25"  stroke-width="2"  stroke="#5f00bf" id="svg_10"/>
+   
+  </g>
+
+</g>
 
 
-  <g id="allright-ok">
+
+  </svg>  
+
+<!-- 
+	  <g id="allright-ok">
    
 
     <line y2="141.938866" x2="108.817152" y1="183.852049" x1="108.817152"  stroke-width="2"  id="svg_8" stroke="#5f00bf"/>
     <line transform="rotate(90 108.56481933593749,163.15991210937503) " y2="141.261915" x2="108.564853" y1="185.057839" x1="108.564853"  stroke-width="2"  stroke="#5f00bf" id="svg_10"/>
    
   </g>
-
-
-</svg>
+  -->
