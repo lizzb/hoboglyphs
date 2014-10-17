@@ -1,0 +1,52 @@
+<svg version="1.1" id="well-guarded-home" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+width="64" height="64" viewBox="0 0 64 64">
+<g>	
+<!--path d="
+M 64,49
+v-34
+h-64
+v34
+z 
+M 2,17
+h60
+v30
+h-60
+z"/-->
+
+<path d="
+M 64,49
+v-18
+h-64
+v18
+z 
+M 2,33
+h60
+v14
+h-60
+z"/>
+
+<path d="
+M 48,45
+v-10
+h-32
+v10
+z 
+M 17,36
+h30
+v8
+h-30
+z"/>
+
+<path d="
+M 64,33
+v-18
+h-64
+v18
+z 
+M 2,17
+h60
+v14
+h-60
+z"/>
+</g>
+</svg>

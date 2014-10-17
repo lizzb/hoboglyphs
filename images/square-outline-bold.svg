@@ -1,0 +1,16 @@
+<svg version="1.1" id="square-outline-bold" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+width="64" height="64" viewBox="0 0 64 64">
+<g>
+<path d="
+M 64,64
+v-64
+h-64
+v64
+z 
+M 4,4
+h56
+v56
+h-56
+z"/>
+</g>
+</svg>

@@ -1,0 +1,27 @@
+<svg version="1.1" id="wealthy" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+width="64" height="64" viewBox="0 0 64 64">
+<g>
+<path d="
+M 64,64
+h-64
+l 32,-64
+l 32, 64
+z 
+M 32,4
+l -28,58
+h56
+z
+
+M 22 22
+h-20
+v-2
+h4
+v-10
+h10
+v10
+h4
+v2
+z
+"/>
+</g>
+</svg>

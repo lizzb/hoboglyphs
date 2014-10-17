@@ -1,0 +1,46 @@
+<svg version="1.1" id="get-out-fast" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+width="64" height="64" viewBox="0 0 64 64">
+<g>
+<path d="
+ M 6 32
+ a 22,22 0 1 1 44,0
+ a 22,22 0 1 1 -44,0
+ M 8 32
+ a 20,20 0 1,0 40,0
+ a 20,20 0 1,0 -40,0 
+z" />
+
+<!--path d="
+M 0 31
+l 56 0
+l 0 -3
+l 8 4
+l -8 4
+l 0 -3
+l -56 0
+z
+"/-->
+
+<path d="
+M 28 39
+l 28 0
+l 0 -3
+l 8 4
+l -8 4
+l 0 -3
+l -28 0
+z
+"/>
+
+<path d="
+M 28 23
+l 28 0
+l 0 -3
+l 8 4
+l -8 4
+l 0 -3
+l -28 0
+z
+"/>
+</g>
+</svg>

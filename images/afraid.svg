@@ -1,0 +1,29 @@
+<svg version="1.1" id="afraid" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="512px" height="512px" viewBox="0 0 512 512">
+<g>
+<path d="
+M450,268
+v-268
+h-450
+v268
+z 
+M16,16
+h418
+v236
+h-418
+v112
+z
+M512,404
+v-268
+h-450
+v268
+z 
+M78,152
+h418
+v236
+h-418
+v112
+z
+"/>
+</g>
+</svg>
