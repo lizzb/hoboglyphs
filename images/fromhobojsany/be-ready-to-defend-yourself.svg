@@ -1,0 +1,23 @@
+<svg version="1.1" id="empty" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+width="64" height="64" viewBox="0 0 64 64">
+<g>
+<path d="
+M 32 20
+l -16 16
+l 16 16
+l 16 -16
+l -16 -16
+m 1 2
+v -16
+h -1.5
+v16
+z 
+M 32 22
+l 14 14
+l -14 14
+l -14 -14
+l 14 -14
+z
+"/>
+	</g>
+</svg>
