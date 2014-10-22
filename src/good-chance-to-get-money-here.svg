@@ -1,0 +1,58 @@
+<svg version="1.1" id="good-chance-to-get-money-here" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+width="64" height="64" viewBox="0 0 64 64">
+<g>
+<!--rect x="0" y="0" width="64" height="64" fill="none" stroke-width="1" stroke="violet"/>
+<path d="M31.5,0 h 1 v 64 h-1 v-64z "/-->
+<path d="
+M 2, 20
+a 8,8 0 1,1 16,0
+a 8,8 0 1,1 -16,0
+z
+M 4,20
+a 6,6 0 1,0 12,0
+a 6,6 0 1,0 -12,0
+z
+"/>
+<path d="
+M 24, 20
+a 8,8 0 1,1 16,0
+a 8,8 0 1,1 -16,0
+z
+M 26,20
+a 6,6 0 1,0 12,0
+a 6,6 0 1,0 -12,0
+z
+"/>
+<path d="
+M 46, 20
+a 8,8 0 1,1 16,0
+a 8,8 0 1,1 -16,0
+z
+M 48,20
+a 6,6 0 1,0 12,0
+a 6,6 0 1,0 -12,0
+z
+"/>
+
+<path d="
+M 36, 40
+a 8,8 0 1,1 16,0
+a 8,8 0 1,1 -16,0
+z
+M 38,40
+a 6,6 0 1,0 12,0
+a 6,6 0 1,0 -12,0
+z
+"/>
+<path d="
+M 12, 40
+a 8,8 0 1,1 16,0
+a 8,8 0 1,1 -16,0
+z
+M 14,40
+a 6,6 0 1,0 12,0
+a 6,6 0 1,0 -12,0
+z
+"/>
+</g>
+</svg>
