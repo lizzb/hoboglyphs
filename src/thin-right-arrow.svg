@@ -1,0 +1,14 @@
+<svg id="arows" width="64" height="64" viewBox="0 0 64 64">
+
+<path d="
+M 4 30
+l 50 0
+l 0 -3
+l 8 4
+l -8 4
+l 0 -3
+l -50 0
+z
+"/>
+
+</svg>

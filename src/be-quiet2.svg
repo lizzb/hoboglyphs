@@ -1,0 +1,33 @@
+
+<svg x="0" y="0" width="64" height="64" viewBox="0 0 64 64">
+<rect x="0" y="0" width="64" height="64" fill="none" stroke-width="1" stroke="violet"/>
+<path d="
+M 20 16
+l -9 16
+l 9 16
+l 9 -16
+l -9 -16
+z 
+M 20 20
+l 7 12
+l -7 12
+l -7 -12
+l 7 -12
+z
+"/>
+<path d="
+M 44 16
+l -9 16
+l 9 16
+l 9 -16
+l -9 -16
+z 
+M 44 20
+l 7 12
+l -7 12
+l -7 -12
+l 7 -12
+z
+"/>
+<path d="M31.5,0 h 1 v 64 h-1 v-64z "/>
+</svg>
