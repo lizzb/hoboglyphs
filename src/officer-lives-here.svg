@@ -1,0 +1,31 @@
+<svg id="officer-lives-here" xmlns="http://www.w3.org/2000/svg"
+width="64" height="64" viewBox="0 0 64 64">
+<g>
+<path d="
+M 12,19
+h40
+v2
+h-40
+z"/>
+
+<path d="
+M 10,43
+h44
+v2
+h-44
+z"/>
+
+<path d="
+M 39,0
+h2
+v64
+h-2
+z"/>
+<path d="
+M 23,0
+h2
+v64
+h-2
+z"/>
+</g>
+</svg>

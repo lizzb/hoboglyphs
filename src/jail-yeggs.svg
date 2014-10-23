@@ -1,0 +1,51 @@
+<svg id="jail-yeggs" xmlns="http://www.w3.org/2000/svg"
+width="64" height="64" viewBox="0 0 64 64">
+<g>
+
+<path d="
+M 0,15
+h64
+v2
+h-64
+z"/>
+
+<path d="
+M 0,31
+h64
+v2
+h-64
+z"/>
+
+<path d="
+M 0,47
+h64
+v2
+h-64
+z"/>
+
+<path d="
+M 10,6
+h2
+v52
+h-2
+z"/>
+<path d="
+M 24,6
+h2
+v52
+h-2
+z"/>
+<path d="
+M 38,6
+h2
+v52
+h-2
+z"/>
+<path d="
+M 52,6
+h2
+v52
+h-2
+z"/>
+</g>
+</svg>

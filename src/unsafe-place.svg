@@ -1,0 +1,54 @@
+<svg id="unsafe-place" xmlns="http://www.w3.org/2000/svg"
+width="64" height="64" viewBox="0 0 64 64">
+<g>
+<path d="
+M 0 25
+l 64 0
+v 2
+l -64 0
+z
+"/>
+<path d="
+M 0 37
+l 64 0
+v 2
+l -64 0
+z
+"/>
+<path d="
+M 15 16
+h 2
+l -8 32
+h -2
+z
+"/>
+<path d="
+M 25 16
+h 2
+l -8 32
+h -2
+z
+"/>
+<path d="
+M 35 16
+h 2
+l -8 32
+h -2
+z
+"/>
+<path d="
+M 45 16
+h 2
+l -8 32
+h -2
+z
+"/>
+<path d="
+M 55 16
+h 2
+l -8 32
+h -2
+z
+"/>
+</g>
+</svg>

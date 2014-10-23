@@ -1,0 +1,35 @@
+<svg id="bad-water" xmlns="http://www.w3.org/2000/svg"
+width="64" height="64" viewBox="0 0 64 64">
+<g>
+<path d="
+M 0 24.5
+l 64 0
+v 1
+l -64 0
+z
+"/>
+<path d="
+M 0 38.5
+l 64 0
+v 1
+l -64 0
+z
+"/>
+<!--
+	<path d="
+M 0 23
+l 64 0
+v 2
+l -64 0
+z
+"/>
+<path d="
+M 0 39
+l 64 0
+v 2
+l -64 0
+z
+"/>
+-->
+</g>
+</svg>

@@ -1,0 +1,19 @@
+<svg id="allright-ok" xmlns="http://www.w3.org/2000/svg"
+width="64" height="64" viewBox="0 0 64 64">
+<g>
+
+<path d="
+M 6,31
+h52
+v2
+h-52
+z"/>
+
+<path d="
+M 31,6
+h2
+v52
+h-2
+z"/>
+	</g>
+</svg>
