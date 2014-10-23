@@ -1,0 +1,11 @@
+<svg id="another-circle" width="64" height="64" xmlns="http://www.w3.org/2000/svg">
+<path d="
+ M 10 32
+ a 22,22 0 1 1 44,0
+ a 22,22 0 1 1 -44,0
+ M 12 32
+ a 20,20 0 1,0 40,0
+ a 20,20 0 1,0 -40,0 
+z" />
+<!--path d="M31.5,0 h 1 v 64 h-1 v-64z "/-->
+</svg>
