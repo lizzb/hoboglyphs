@@ -1,5 +1,7 @@
-<svg x="0" y="0" width="64" height="64" viewBox="0 0 64 64">
-<rect x="0" y="0" width="64" height="64" fill="none" stroke-width="1" stroke="violet"/>
+<svg id="be-quiet1" xmlns="http://www.w3.org/2000/svg">
+<!--<svg x="0" y="0" width="64" height="64" viewBox="0 0 64 64">
+rect x="0" y="0" width="64" height="64" fill="none" stroke-width="1" stroke="violet"/-->
+<g>
 <path d="
 M 20 16
 l -8 16
@@ -28,5 +30,6 @@ l -6.5 -12.5
 l 6.5 -12.5
 z
 "/>
-<path d="M31.5,0 h 1 v 64 h-1 v-64z "/>
+</g>
+<!--path d="M31.5,0 h 1 v 64 h-1 v-64z "/-->
 </svg>
