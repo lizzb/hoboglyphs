@@ -1,0 +1,23 @@
+<svg id="dont-go-this-way" xmlns="http://www.w3.org/2000/svg" 
+width="64" height="64" viewBox="0 0 64 64">
+<g>
+   <path id="circle-r16-light" d="
+ M 16 32
+ a 16,16 0 1 1 32,0
+ a 16,16 0 1 1 -32,0
+ M 18 32
+ a 14,14 0 1,0 28,0
+ a 14,14 0 1,0 -28,0 
+z" />
+<path d="
+M 2 30
+l 54 0
+l 0 -3
+l 8 4
+l -8 4
+l 0 -3
+l -54 0
+z
+"/>
+</g>
+</svg>
