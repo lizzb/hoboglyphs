@@ -1,7 +1,8 @@
-<svg id="wealthy" xmlns="http://www.w3.org/2000/svg" 
+<svg id="tramps-here" xmlns="http://www.w3.org/2000/svg" 
 width="64" height="64" viewBox="0 0 64 64">
 <g>
-<path d="
+<path d="m0,0l64,0l-32,64l-32,-64zm32,60l28,-58l-56,0l28,58z"/>
+<!--path d="
 M 64,64
 h-64
 l 32,-64
@@ -22,6 +23,6 @@ v10
 h4
 v2
 z
-"/>
+"/-->
 </g>
 </svg>
