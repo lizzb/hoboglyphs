@@ -1,0 +1,13 @@
+<svg id="arrow-right" xmlns="http://www.w3.org/2000/svg"
+width="64" height="64" viewBox="0 0 64 64">
+<path d="
+M 2 30
+l 52 0
+l 0 -3
+l 8 4
+l -8 4
+l 0 -3
+l -52 0
+z
+"/>
+</svg>

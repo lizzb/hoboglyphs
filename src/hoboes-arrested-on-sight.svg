@@ -1,0 +1,29 @@
+<svg id="hoboes-arrested-on-sight" width="64" height="64" xmlns="http://www.w3.org/2000/svg">
+   <path id="circle-r16-light" d="
+ M 26 32
+ a 16,16 0 1 1 32,0
+ a 16,16 0 1 1 -32,0
+ M 28 32
+ a 14,14 0 1,0 28,0
+ a 14,14 0 1,0 -28,0 
+z" />
+   <path id="circle-r16-light" d="
+ M 6 32
+ a 16,16 0 1 1 32,0
+ a 16,16 0 1 1 -32,0
+ M 8 32
+ a 14,14 0 1,0 28,0
+ a 14,14 0 1,0 -28,0 
+z" />
+<!--path fill="orange" d="
+M 33 64
+h -2
+v -52
+h -3
+l 4 -8
+l 4 8
+h -3
+v 52
+z
+"/-->
+</svg>

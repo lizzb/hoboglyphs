@@ -1,0 +1,25 @@
+<svg id="straight-ahead" width="64" height="64" xmlns="http://www.w3.org/2000/svg">
+<!--path d="
+M 31 0
+h 2
+v 52
+h -2
+z
+"/-->
+<path d="
+M 31 0
+h 2
+v 22
+h -2
+z
+"/>
+   <path id="circle-r16-light" d="
+ M 16 36
+ a 16,16 0 1 1 32,0
+ a 16,16 0 1 1 -32,0
+ M 18 36
+ a 14,14 0 1,0 28,0
+ a 14,14 0 1,0 -28,0 
+z" />
+
+</svg>

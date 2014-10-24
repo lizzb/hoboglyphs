@@ -1,0 +1,20 @@
+<svg id="good-road-to-follow" xmlns="http://www.w3.org/2000/svg" 
+width="64" height="64" viewBox="0 0 64 64">
+<g>
+<path id="circle-r16-light" d="
+M 16 32
+ a 16,16 0 1 1 32,0
+ a 16,16 0 1 1 -32,0
+ M 18 32
+ a 14,14 0 1,0 28,0
+ a 14,14 0 1,0 -28,0 
+"/>
+<path d="
+M .5 .5
+l 62 62
+l -1 1
+l -62 -62
+z
+"/>
+</g>
+</svg>

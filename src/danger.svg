@@ -1,0 +1,35 @@
+<svg id="danger" xmlns="http://www.w3.org/2000/svg"
+width="64" height="64" viewBox="0 0 64 64">
+<g>
+	<path d="
+M58,44
+v-24
+h-48
+v24
+z 
+M12,22
+h44
+v20
+h-44
+v-20
+z
+M 30 38
+h 4
+v 4
+h-4
+z
+"/>
+<path d="
+M56,44
+v-24
+h-48
+v24
+z 
+M10,22
+h44
+v20
+h-44
+v-20
+z"/>
+	</g>
+</svg>

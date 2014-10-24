@@ -1,0 +1,14 @@
+<svg id="arrow-up" xmlns="http://www.w3.org/2000/svg"
+width="64" height="64" viewBox="0 0 64 64">
+<path d="
+M 33 64
+h -2
+v -52
+h -3
+l 4 -8
+l 4 8
+h -3
+v 52
+z
+"/>
+</svg>
